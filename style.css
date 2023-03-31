@@ -30,7 +30,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(254,241,110,255, 0.1); 
+    background-color: #22222204;
     backdrop-filter: blur(4px); 
 }
 
