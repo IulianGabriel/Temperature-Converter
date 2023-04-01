@@ -48,7 +48,12 @@ input {
     height: 4rem;
     border-radius: 0.8rem;
     font-size: 1.6rem;
-    color: #444;
+    color: #444;   
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
 }
 
 input:focus {
