@@ -57,6 +57,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 input:focus {
+    background-color: #ffffffc5;
     outline: none;
     box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.4);
 }
